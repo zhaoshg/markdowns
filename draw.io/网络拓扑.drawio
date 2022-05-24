@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T08:39:18.440Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="gS2DdV1nUOX5n3QKSlfc" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T08:39:52.727Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="wRGJ9BsX7MepJWZMQdHF" version="18.1.2" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="6853" dy="3119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="LMR5gJt18iYfOMBs4Cg6-28" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;华为云平台&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=26;verticalAlign=top;fillColor=none;strokeWidth=4;strokeColor=#66B2FF;fontStyle=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-3080" y="-1180" width="1960" height="1160" as="geometry" />
         </mxCell>
-        <mxCell id="LMR5gJt18iYfOMBs4Cg6-13" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;VPC&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;fillColor=none;strokeWidth=4;strokeColor=#66B2FF;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="LMR5gJt18iYfOMBs4Cg6-13" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;内网环境&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;fillColor=none;strokeWidth=4;strokeColor=#66B2FF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-2320" y="-1110" width="930" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="LMR5gJt18iYfOMBs4Cg6-8" value="Internet" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=26;strokeColor=#6c8ebf;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
@@ -50,7 +50,7 @@
             <mxPoint x="-19" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-61" value="平台服务" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=20;strokeColor=#6c8ebf;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-61" value="平台服务&lt;br&gt;VPC" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=20;strokeColor=#6c8ebf;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-2246.5" y="-1040" width="800" height="640" as="geometry" />
         </mxCell>
         <mxCell id="vlDCk50MzwrjSfQ7u1aB-44" style="edgeStyle=none;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;endArrow=block;endFill=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=1;entryY=0.5;entryDx=0;entryDy=0;gradientColor=none;endSize=6;targetPerimeterSpacing=0;" parent="1" source="6a7d8f32e03d9370-59" target="LMR5gJt18iYfOMBs4Cg6-8" edge="1">
